@@ -33,7 +33,7 @@ namespace Cap4ycap5.Capitulo_5
             }
             fact = res;
             return fact;
-        }
+        } 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             long num = Convert.ToInt64(Numero.Text);
